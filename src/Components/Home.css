@@ -1,0 +1,12 @@
+.Home-container {
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.balmerlawrie.com%2Fimg%2Fmain_images%2Finside_banner%2Ftravel_inside.jpg&tbnid=5IGPRK9sV1OS-M&vet=12ahUKEwj9wqax9YOAAxU42zgGHdBqDBkQMygIegUIARDIAQ..i&imgrefurl=https%3A%2F%2Fwww.balmerlawrie.com%2Fpages%2Ftravel_contact_us&docid=6sbJJqJ6ZG_k9M&w=1380&h=399&q=travel%20contact%20us&ved=2ahUKEwj9wqax9YOAAxU42zgGHdBqDBkQMygIegUIARDIAQ");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    padding: 20px;
+  }
